@@ -1,0 +1,34 @@
+#Green{
+    background: #009900;
+    width: 250px;
+    height: 250px;
+}
+#Purple{
+    background: #990099;
+    width: 250px;
+    height: 250px;
+
+}
+#Blue{
+    background: #000099;
+    width: 250px;
+    height: 250px;
+}
+#doggo{
+    width:200px;
+    height:200px;
+    padding-left: 25px;
+    padding-top:  25px;
+}
+#pupper{
+    width:200px;
+    height:200px;
+    padding-left: 25px;
+    padding-top:  25px;
+}
+#yapper{
+    width:200px;
+    height:200px;
+    padding-left: 25px;
+    padding-top:  25px;
+}
